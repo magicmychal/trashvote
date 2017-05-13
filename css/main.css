@@ -4,6 +4,9 @@ body {
     font-family: "museo-slab",serif;
     font-weight: 700;
 }
+.navbar-brand>img{
+    width:120px;
+}
 
 .header-image {
     display: block;
@@ -67,7 +70,7 @@ body {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    padding-top:100%;
+    padding-top:40%;
 }
 
 footer {
@@ -201,3 +204,10 @@ footer {
 .vote_text{
     background-color: #be1622;
 }
+
+.container_unset{
+    width: unset;
+}
+
+/* carousel settings */
+
