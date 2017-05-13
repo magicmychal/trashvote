@@ -6777,6 +6777,8 @@ button.close {
 .small-pt {
   padding:0 !important;
   padding-top:5px !important;
+  padding-bottom:15px !important;	
   padding-left:30px !important;
+  padding-right:30px !important; 	
   position: relative;
 }

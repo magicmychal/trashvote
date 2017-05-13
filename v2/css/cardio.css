@@ -198,7 +198,6 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	color: white;
 	border: 2px solid transparent;
 	border-radius: 2px;
-	background: transparent;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 }
@@ -279,10 +278,6 @@ section {
 	background: #fff;
 }
 
-.section-padded {
-	padding: 140px 0 40px;
-}
-
 .cut-top {
 	content: ' ';
 	position: absolute;
@@ -346,8 +341,8 @@ section {
 }
 
 .intro-table-hover .expand {
-	margin: 30px;
-	margin-top: 120px;
+	margin: 20px;
+	margin-top: 10px;
 	opacity: 0;
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
 	transition: transform 0.3s ease, opacity 0.3s;
@@ -449,7 +444,7 @@ section {
 	}
 }
 
-.services {
+.why_vote {
 	margin: 40px 0;
 }
 
@@ -545,7 +540,7 @@ section {
 .team .title {
 	margin: 50px 0;
 }
-/* how to vote boxes */
+/* How to vote boxes */
 
 #pricing {
 	background: #f7f7f7 url('../img/denmark.png') no-repeat center center;
@@ -656,6 +651,11 @@ section {
     color: #fff;
 }
 
+.reasons_why{
+	background-color: hsla(0,0%,100%,0.94);
+	color: hsla(0,0%,20%,1.00);
+	padding: 10px;
+}
 /* Footer */
 
 footer {
@@ -726,6 +726,76 @@ footer .social-footer li a {
 footer .social-footer li:hover a {
 	color: #00a8ff;
 }
+
+/* Social Media Boxes */
+
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #55acee;
+}
+.fa-instagram {
+  color: #3f729b;
+}
+.social > a {
+  position: relative;
+  display: inline-block;
+  margin: 40px;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+.social > a:hover .front {
+  transform: translateY(-45px);
+}
+.social > a.fb:hover .front {
+  transform: translate(-45px, -45px);
+}
+.social > a.ig:hover .front {
+  transform: translate(45px, -45px);
+}
+.front {
+  position: absolute;
+  z-index: 10;
+  width: 100px;
+  height: 100px;
+  border-radius: 3px;
+  background: #fff;
+  transition: all 0.3s ease-out;
+}
+.front i.fa {
+  display: block;
+  margin: 20px 0 10px 0;
+  font-size: 32px;
+}
+.front span {
+  color: #ccc;
+}
+.behind {
+  position: absolute;
+  z-index: -1;
+  top: 5px;
+  left: 5px;
+  width: 110px;
+  height: 110px;
+  padding-top: 80px;
+  border-radius: 3px;
+  color: #fff;
+  box-shadow: 0px 0px 40px #b6bec7, 0px 0px 120px #b6bec7;
+}
+.fb .behind {
+  padding-right: 40px;
+  background: #3b5998;
+}
+.tw .behind {
+  background: #55acee;
+}
+.ig .behind {
+  padding-left: 40px;
+  background: #3f729b;
+}
+
 /* Form Control */
 
 .form-control {
@@ -737,14 +807,7 @@ footer .social-footer li:hover a {
 	border: 1px;
 	border-radius: 0;
 	box-shadow: 0;
-}
-
-.form-control.form-white {
-	color: #fff;
-	border: 2px solid white;
-	background: transparent;
-	-webkit-transition: background-color 0.3s;
-	transition: background-color 0.3s;
+	background: #29235c;
 }
 
 .form-control.form-white::-webkit-input-placeholder {
@@ -770,9 +833,8 @@ footer .social-footer li:hover a {
 }
 
 .form-control.form-white:focus {
-	background: rgba(255,255,255,0.2);
+	background: #29235c
 }
-
 /* Popup */
 .modal {
 	padding: 0 25px !important;
@@ -821,6 +883,7 @@ footer .social-footer li:hover a {
 	display: inline-block;
 	float: right;
 	color: white;
+	font-size:1.5em;
 }
 
 .popup-form .dropdown .dropdown-menu {
@@ -832,6 +895,7 @@ footer .social-footer li:hover a {
 	border-radius: 0;
 	background: white;
 	box-shadow: none;
+	font-size: 1.5em;
 }
 
 .popup-form .dropdown .dropdown-menu li {
@@ -850,6 +914,7 @@ footer .social-footer li:hover a {
 	color: #fff;
 	background: #00a8ff;
 }
+
 
 /* Checkbox */
 
