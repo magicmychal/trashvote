@@ -10,14 +10,13 @@
 	<meta name="keywords" content="valg demokrati politik" />
 	<meta name="author" content="Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt" />
 	<!-- Favicons (created with http://realfavicongenerator.net/)-->
-	<link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-touch-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-touch-icon-60x60.png">
-	<link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
-	<link rel="manifest" href="img/favicons/manifest.json">
-	<link rel="shortcut icon" href="img/favicons/favicon.ico">
-	<meta name="msapplication-TileColor" content="#29235c">
-	<meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+	<link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/img/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/img/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/img/favicons/manifest.json">
+	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
+	<link rel="shortcut icon" href="/img/favicons/favicon.ico">
+	<meta name="msapplication-config" content="/img/favicons/browserconfig.xml">
 	<meta name="theme-color" content="#ffffff">
 	<!-- Normalize -->
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
@@ -49,14 +48,15 @@
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 				</button>
-				<a class="navbar-brand" href="#"><img src="img/tvlogo2.png" data-active-url="img/tvlogo2.png" alt=""></a>
+				<a class="navbar-brand" href="#"><img class="logo-img" src="img/tvlogo2.png" data-active-url="img/tvlogo2.png" alt="TrashVote"></a>
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 				<ul class="nav navbar-nav navbar-right main-nav">
 					<li><a href="#intro">Intro</a></li>
 					<li><a href="#why_vote">Why vote?</a></li>
-					<li><a href="#elections">About elections</a></li>
+					<li><a href="#our_mission">Our mission</a></li>
+					<li><a href="#elections">List of candidates</a></li>
 					<li><a href="#how_to_vote">How to vote?</a></li>
 				</ul>
 			</div>
@@ -112,7 +112,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="cut cut-bottom"></div>
 	</section>
 		
 		<div class="container">
@@ -164,81 +163,29 @@
 			<h4 class="light black center_text why_subtext">When not voting, you’re giving up you chance you be heard. Now is the time to act, now it’s time to vote, before it’s too late.</h4>
 			<h2 class="light black center_text what_headline">Want to learn more?</h2>
 	</div>
-	
-	<section class="event_QA_Youtube">
-		<div class="cut cut-top"></div>
-		<div class="container">
-			<div class="row intro-tables">
-				<div class="col-md-4">
-					<div class="intro-table intro-table-first">
-						<h5 class="white heading">Events</h5>
-						<div class="owl-carousel owl-schedule bottom">
-							<div class="item">
-								<div class="schedule-row row">
-									<div class="col-xs-6">
-										<h5 class="regular white">Politician 1</h5>
-									</div>
-									<div class="col-xs-6 text-right">
-										<h5 class="white">2nd September</h5>
-									</div>
-								</div>
-								<div class="schedule-row row">
-									<div class="col-xs-6">
-										<h5 class="regular white">Your influence</h5>
-									</div>
-									<div class="col-xs-6 text-right">
-										<h5 class="white">2nd September - Forum Copenhagen</h5>
-									</div>
-								</div>
-								<div class="schedule-row row">
-									<div class="col-xs-6">
-										<h5 class="regular white">Q&amp;A with Hans</h5>
-									</div>
-									<div class="col-xs-6 text-right">
-										<h5 class="white">4th November </h5>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+	<section id="our_mission" class="section section-padded">
+	 	<div class="container">
+	 		<div class="row title text-center">
+	 			<div class="col-md-12">
+		 			<h2 class="margin-top">#TrashVote mission</h2>
+		 			<p class="light black center_text why_subtext">
+				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you is a different story. With the word TrashVote, we are trying to convince you not too waste or trash your vote. You could look at in a few different ways. The first one is, if you are thinking of not using your vote, than be aware that your vote is being used for another party. Maybe even the party that The second way to look at is, 
+					</p>
 				</div>
-				<div class="col-md-4">
-					<div class="intro-table intro-table-hover">
-						<h5 class="white heading hide-hover">Ask a question!</h5>y
-						<div class="bottom">
-							<h4 class="white heading small-heading no-margin regular">Not sure how it all works?</h4>
-							<h4 class="white heading small-pt">Our advisor will help you figure it our!</h4>
-							<a href="#" class="btn btn-white-fill expand">Ask now!</a>
-							<a href="#" class="btn btn-white-fill expand">Frequently asked</a>
-						</div>
-					</div>
+				<div class="col-md-12">
+					<h4 class="">Why it is so important to go vote?</h2>
+					<div class="embed-responsive embed-responsive-16by9">
+                        
+                        <iframe src="https://www.youtube.com/embed/kTFZyl7hfBw" frameborder="0" allowfullscreen></iframe>
+                    </div>
 				</div>
-				<div class="col-md-4">
-					<div class="intro-table intro-table-third">
-						<h5 class="white heading">YouTubers' voice</h5>
-						<div class="owl-testimonials bottom">
-							<div class="item">
-								<h4 class="white heading content">I couldn't be more happy with the results!</h4>
-								<h5 class="white heading light author">Adam Jordan</h5>
-							</div>
-							<div class="item">
-								<h4 class="white heading content">I can't believe how much better I feel!</h4>
-								<h5 class="white heading light author">Greg Pardon</h5>
-							</div>
-							<div class="item">
-								<h4 class="white heading content">Incredible transformation and I feel so healthy!</h4>
-								<h5 class="white heading light author">Christina Goldman</h5>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
+			</div>	
 		</div>
 	</section>
 	<section id="elections" class="section gray-bg">
 		<div class="container">
 			<div class="row title text-center">
-				<h2 class="margin-top">About elections</h2>
+				<h2 class="margin-top">List of candidates</h2>
 				<h4 class="light muted">Don't know on whom to vote? Check out who is in your area and what is their plan!</h4>
 			</div>
 			<div class="dropdown municipalities">
@@ -251,10 +198,10 @@
 							?>
 						</ul>
 			</div>
-			<div class="row">
-				<?php
-					require_once('php/candidates.php');
-				?>
+			<div class="row" id="candidates_result">
+					<?php
+						require_once('php/candidates.php');
+					?>
 			</div>
 		</div>
 	</section>
@@ -308,7 +255,7 @@
 				   		</div>
 				   		<div class="col-md-12">
 							<div class="col-sm-8">	
-								<h2 class="featurette-heading">Remember!
+								<h2>Remember!
 									<p class="lead"> You can also vote blank, that is, do not write anything on the ballot paper. In that case, your ballot paper will be invalid and will not be counted in the result, but will count in the number of votes cast and thus affect the amount of voting. <img src="img/eo/1f609.png" alt="wink"> </p>
 							   </h2>
 							   </div>
@@ -320,71 +267,29 @@
 			</div>
 		</div>
 	</section>
-	<section class="section section-padded blue-bg">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<div class="owl-twitter owl-carousel">
-						<div class="item text-center">
-							<i class="icon fa fa-twitter"></i>
-							<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-							<h4 class="light-white light">#health #training #exercise</h4>
-						</div>
-						<div class="item text-center">
-							<i class="icon fa fa-twitter"></i>
-							<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-							<h4 class="light-white light">#health #training #exercise</h4>
-						</div>
-						<div class="item text-center">
-							<i class="icon fa fa-twitter"></i>
-							<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-							<h4 class="light-white light">#health #training #exercise</h4>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
 	<footer>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 text-center-mobile">
 					<h3 class="white">Follow us!</h3>
 					<h5 class="light regular light-white">Keep up with the latest news!<br><img src="img/eo/1f64c.png" alt="yeah!"> </h5>
-					<div class="social">
-					<a class="fb text-center pull-left" href="https://www.facebook.com/dribbble">
-					<div class="front"><i class="fa fa-facebook"></i><span class="count facebook">27k</span></div>
-					<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="https://twitter.com/dribbble">
-					<div class="front"><i class="fa fa-twitter"></i><span class="count twitter">136k</span></div>
-					<div class="behind">FOLLOW</div></a><a class="ig text-center pull-left" href="https://instagram.com/dribbble">
-					<div class="front"><i class="fa fa-instagram"></i><span class="count instagram">14.6k</span></div>
-					<div class="behind text-left">FOLLOW</div></a>
-					</div>
+					
 				</div>
 				<div class="col-sm-6 text-center-mobile">
-					<h3 class="white">Opening Hours <span class="open-blink"></span></h3>
-					<div class="row opening-hours">
-						<div class="col-sm-6 text-center-mobile">
-							<h5 class="light-white light">Mon - Fri</h5>
-							<h3 class="regular white">9:00 - 22:00</h3>
-						</div>
-						<div class="col-sm-6 text-center-mobile">
-							<h5 class="light-white light">Sat - Sun</h5>
-							<h3 class="regular white">10:00 - 18:00</h3>
-						</div>
+					<div class="social">
+						<a class="fb text-center pull-left" href="https://www.facebook.com/dribbble">
+						<div class="front"><i class="fa fa-facebook"></i><span class="count facebook">27k</span></div>
+						<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="https://twitter.com/dribbble">
+						<div class="front"><i class="fa fa-twitter"></i><span class="count twitter">136k</span></div>
+						<div class="behind">FOLLOW</div></a><a class="ig text-center pull-left" href="https://instagram.com/dribbble">
+						<div class="front"><i class="fa fa-instagram"></i><span class="count instagram">14.6k</span></div>
+						<div class="behind text-left">FOLLOW</div></a>
 					</div>
 				</div>
 			</div>
 			<div class="row bottom-footer text-center-mobile">
-				<div class="col-sm-8">
+				<div class="col-sm-12">
 					<p>&copy; 2017 All Rights Reserved. cphbusiness project by Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt<br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
-				</div>
-				<div class="col-sm-4 text-right text-center-mobile">
-					<ul class="social-footer">
-						<li><a href="http://www.facebook.com/pages/Codrops/159107397912"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="http://www.twitter.com/codrops"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="https://plus.google.com/101095823814290637419"><i class="fa fa-google-plus"></i></a></li>
-					</ul>
 				</div>
 			</div>
 		</div>

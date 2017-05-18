@@ -2,7 +2,7 @@ jQuery(function($) {
 	"use strict";
 	// Author Code Here
 
-	var owlPricing;
+	var owlhow_to_vote;
 	var ratio = 2;
 
 	// Window Load
@@ -38,6 +38,9 @@ jQuery(function($) {
 		});
 		$('.owl-testimonials').owlCarousel({
 			singleItem: true,
+			pagination: true
+		});
+		$('.owl-candidates').owlCarousel({
 			pagination: true
 		});
 		$('.owl-twitter').owlCarousel({
@@ -99,14 +102,14 @@ jQuery(function($) {
 		$('header').height($(window).height());
 	});
 
-	// Pricing Box Click Event
-	$('.pricing .box-main').click(function() {
-		$('.pricing .box-main').removeClass('active');
-		$('.pricing .box-second').removeClass('active');
+	// how_to_vote Box Click Event
+	$('.how_to_vote .box-main').click(function() {
+		$('.how_to_vote .box-main').removeClass('active');
+		$('.how_to_vote .box-second').removeClass('active');
 		$(this).addClass('active');
 		$(this).next($('.box-second')).addClass('active');
-		$('#pricing').css("background-image", "url(" + $(this).data('img') + ")");
-		$('#pricing').css("background-size", "cover");
+		$('#how_to_vote').css("background-image", "url(" + $(this).data('img') + ")");
+		$('#how_to_vote').css("background-size", "cover");
 	});
 
 	// Mobile Nav
