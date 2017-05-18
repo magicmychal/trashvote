@@ -39,8 +39,8 @@ body {
 
 .preloader div {
 	display: none;
-	/* Preload the Second Pricing Image */
-	background: url(../img/pricing2.jpg) no-repeat 9999px 9999px;
+	/* Preload the Second how_to_vote Image */
+	background: url(../img/how_to_vote2.jpg) no-repeat 9999px 9999px;
 	background-position: 9999px 9999px;
 }
 
@@ -586,7 +586,7 @@ section {
 
 /* How to vote boxes */
 
-#pricing {
+#how_to_vote {
 	background: #f7f7f7 url('../img/denmark.png') no-repeat center center;
 	-webkit-background-size: cover;
 	background-size: cover;
@@ -594,23 +594,23 @@ section {
 	transition: background-image 0.6s linear 0.3s;
 }
 
-.owl-pricing img {
+.owl-how_to_vote img {
 	width: 100%;
 }
 
-.owl-pricing,
-.pricings {
+.owl-how_to_vote,
+.how_to_votes {
 	margin-top: 100px;
 	margin-bottom: 100px;
 }
 
-.pricing {
+.how_to_vote {
 	position: relative;
 	width: 100%;
 }
 
-.pricings .pricing .box-main,
-.pricings .pricing .box-second {
+.how_to_votes .how_to_vote .box-main,
+.how_to_votes .how_to_vote .box-second {
 	position: relative;
 	left: 25%;
 	display: inline-block;
@@ -624,16 +624,16 @@ section {
 	backface-visibility: hidden;
 }
 
-.pricings .pricing .box-main {
+.how_to_votes .how_to_vote .box-main {
 	z-index: 10;
 	padding-top: 40px;
 }
 
-.pricings .pricing .box-main:not(.active) {
+.how_to_votes .how_to_vote .box-main:not(.active) {
 	cursor: pointer;
 }
 
-.pricings .pricing .box-main .info-icon {
+.how_to_votes .how_to_vote .box-main .info-icon {
 	font-size: 14px;
 	position: absolute;
 	top: 20px;
@@ -645,24 +645,24 @@ section {
 	transition: opacity 0.3s;
 }
 
-.pricings .pricing .box-main:not(.active) .info-icon {
+.how_to_votes .how_to_vote .box-main:not(.active) .info-icon {
 	opacity: 1;
 	-webkit-transition-delay: 0.2s;
 	transition-delay: 0.2s;
 }
 
-.pricings .pricing .box-main:not(.active):hover {
+.how_to_votes .how_to_vote .box-main:not(.active):hover {
 	background: #afafaf;
 }
 
-.pricings .pricing .box-main.active {
+.how_to_votes .how_to_vote .box-main.active {
 	background: #00a8ff;
 	-webkit-transform: translateX(-99%);
 	-ms-transform: translateX(-99%);
 	transform: translateX(-99%);
 }
 
-.pricings .pricing .box-second {
+.how_to_votes .how_to_vote .box-second {
 	position: absolute;
 	top: 0;
 	right: 0% !important;
@@ -671,17 +671,17 @@ section {
 	background: #afafaf;
 }
 
-.pricings .pricing .box-second.active {
+.how_to_votes .how_to_vote .box-second.active {
 	opacity: 1;
 	background: #00a8ff;
 }
 
-.pricings .pricing.active .box-main,
-.pricings .pricing .box-second {
+.how_to_votes .how_to_vote.active .box-main,
+.how_to_votes .how_to_vote .box-second {
 	background: #00a8ff;
 }
 
-.pricings .pricing .box-main a.btn {
+.how_to_votes .how_to_vote .box-main a.btn {
 	margin-top: 50px;
 }
 
@@ -977,27 +977,27 @@ footer .social-footer li:hover a {
 }
 
 @media(max-width: 768px) {
-	.pricing {
+	.how_to_vote {
 		margin-bottom: 30px;
 	}
-	.pricings .pricing .info-icon {
+	.how_to_votes .how_to_vote .info-icon {
 		display: none;
 	}
-	.pricings .pricing .box-main,
-	.pricings .pricing .box-second {
+	.how_to_votes .how_to_vote .box-main,
+	.how_to_votes .how_to_vote .box-second {
 		left: 0;
 		width: 100%;
 		padding: 50px 50px 0;
 		text-align: left;
 		background: #00a8ff;
 	}
-	.pricings .pricing .box-main.active {
+	.how_to_votes .how_to_vote .box-main.active {
 		background: #00a8ff;
 		-webkit-transform: translateX(0%);
 		-ms-transform: translateX(0%);
 		transform: translateX(0%);
 	}
-	.pricings .pricing .box-second {
+	.how_to_votes .how_to_vote .box-second {
 		position: relative;
 		opacity: 1;
 	}
@@ -1019,7 +1019,7 @@ footer .social-footer li:hover a {
 	header .typed-cursor {
 		display: none;
 	}
-	.pricings .pricing .box-second {
+	.how_to_votes .how_to_vote .box-second {
 		padding-top: 0;
 	}
 }

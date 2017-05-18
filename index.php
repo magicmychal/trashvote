@@ -57,7 +57,7 @@
 					<li><a href="#intro">Intro</a></li>
 					<li><a href="#why_vote">Why vote?</a></li>
 					<li><a href="#elections">About elections</a></li>
-					<li><a href="#pricing">How to vote?</a></li>
+					<li><a href="#how_to_vote">How to vote?</a></li>
 				</ul>
 			</div>
 			<!-- /.navbar-collapse -->
@@ -258,7 +258,7 @@
 			</div>
 		</div>
 	</section>
-	<section id="pricing" class="section">
+	<section id="how_to_vote" class="section">
 		<div class="container">
 			<div class="row title text-center">
 				<h2 class="margin-top white">How to vote?</h2>
