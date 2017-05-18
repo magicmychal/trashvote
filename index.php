@@ -189,7 +189,7 @@
 				<h4 class="light muted">Don't know on whom to vote? Check out who is in your area and what is their plan!</h4>
 			</div>
 			<div class="dropdown municipalities">
-						<button class="form-control dropdown btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button class="form-control dropdown btn btn-drop dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Choose your municipality
 						</button>
 						<ul class="dropdown-menu animated fadeIn municipalities_list" role="menu" aria-labelledby="dLabel">
