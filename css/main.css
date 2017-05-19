@@ -524,6 +524,14 @@ section {
   text-align: center;
   font-size: 1.5em; }
 
+.why_subtext{
+	text-align: justify;
+}
+
+.why_video{
+	margin-top: 50px;
+}
+
 /* How to vote boxes */
 #how_to_vote {
   background: #f7f7f7 url("../img/denmark.png") no-repeat center center;

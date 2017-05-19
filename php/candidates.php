@@ -11,7 +11,6 @@ $results_candiddates = mysqli_query($con, $sql_candidates);
 
 if(empty($_GET)){
 	
-	echo "<h5>There's nothing to show</h5>";
 }
 else{
 $sql_candidates = 	"SELECT names.Name, names.Description, municipalities.Region, names.url

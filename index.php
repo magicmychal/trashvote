@@ -116,7 +116,6 @@
 			</div>
 		</div>
 	</section>	
-	<section id="why_vote_2" class="section section-padded">
 		<div class="container">
 			<h4 class="light black center_text why_subtext">Voting is an essential part of democracy and is a privilege to possess. Each election will have an impact on your life, 
 			so make a change and use the possibilities that has been given to you, go vote.</h4>
@@ -170,15 +169,15 @@
 	 		<div class="row title text-center">
 	 			<div class="col-md-12">
 		 			<h2 class="margin-top">#TrashVote mission</h2>
-		 			<h4 class="light black center_text why_subtext">
+		 			<p class="light black center_text why_subtext">
 				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you, is a different story. With the word TrashVote, we are trying to convince you not too waste your vote. 
-
+						<br>
 						You could look at in a few different ways. The first one is, if you are thinking about not using your vote, then be aware that your vote is going to an unknown party. The second one, is to consider the value the democracy in Denmark. It is important to vote for your believes and be apart of the changes you would like to see in Denmark. 
-
+						<br>	
 						We want to make sure that the danish youth understands the value of democracy and the fact that their vote can make a difference. We are here to provide awareness and information about the upcoming election, so that everyone can work together to help shaping the future of Denmark.
-					</h4>
+					</p>
 				</div>
-				<div class="col-md-12">
+				<div class="col-md-12 why_video">
 					<h4 class="">Why it is so important to go vote?</h2>
 					<div class="embed-responsive embed-responsive-16by9">
                         
@@ -282,7 +281,12 @@
 			</div>
 			<div class="row bottom-footer text-center-mobile">
 				<div class="col-sm-12">
-					<p>&copy; 2017 All Rights Reserved. cphbusiness project by <a href="http://projects.michaeldesign.pl/new" target="_blank">Michał Pawlicki</a>, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska,<a href="http://www.faurholtdesign.com" target="_blank">Jens Faurholt</a><br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
+					<p>&copy; 2017 All Rights Reserved. cphbusiness project by
+					<a href="http://projects.michaeldesign.pl/new" target="_blank">Michał Pawlicki</a>,
+					Marloes Koopman,
+					<a href="https://akufra.myportfolio.com" target="_blank">Aku Franssila,</a>
+					Zuzanna Matuszewska,
+					<a href="http://www.faurholtdesign.com" target="_blank">Jens Faurholt</a><br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
 				</div>
 			</div>
 		</div>
