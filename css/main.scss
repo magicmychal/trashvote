@@ -210,18 +210,20 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	height: auto;
 	display: inline-block;
 	padding: 15px 30px;
+	background-color: #6DCCB8;
 	color: white;
 	border: 2px solid transparent;
 	border-radius: 2px;
 	-webkit-transition: all 0.3s ease;
 	transition: all 0.3s ease;
+	background-color: #6DCCB8;
 }
 
 .btn:hover,
 .btn:focus {
 	color: white;
 }
-
+/*
 .btn.btn-blue {
 	background: #00a8ff;
 }
@@ -261,6 +263,13 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 .btn.btn-gray-fill:hover {
 	border-color: #bbb;
 	background: #bbb;
+}
+*/
+.btn-primary-colored {
+  color: #fff;
+  background-color: #6DCCB8;
+  border-color: #2e6da4;
+	margin: 200px;
 }
 
 #why_vote_carousel{

@@ -74,6 +74,9 @@
 							<h3 class="white typed">21st November - you can make a difference</h3>
 							<span class="typed-cursor">|</span>
 						</div>
+						<div class="col-md-12 centered btn_our mission_btn">
+							<a href="#our_mission"><button type="button" class="btn btn-primary">What's #TrashVote?</button></a>
+						</div>
 					</div>
 				</div>
 			</div>
