@@ -147,7 +147,7 @@ nav.navbar {
   transition: all 0.3s ease; }
 
 nav.navbar .navbar-nav li.active a:not(.btn) {
-  color: #00a8ff !important; }
+  color: #6DCCB8 !important; }
 
 nav.navbar-fixed-top {
   z-index: 9499;
@@ -867,10 +867,21 @@ footer .social-footer li:hover a {
   .popup-form .form-control:not(.dropdown):focus {
     position: relative;
     padding-right: 30px;
-    padding-left: 30px; } }
+    padding-left: 30px; }
+  .navbar-nav {
+    max-width: 100%; }
+    .navbar-nav li {
+      margin: 0; } }
 
 @media (max-width: 400px) {
   header .typed-cursor {
     display: none; }
   .how_to_votes .how_to_vote .box-second {
     padding-top: 0; } }
+
+@media (max-width: 380px) {
+  .navbar-brand {
+    padding: 0;
+    width: 30%; }
+  .logo-img {
+    width: 220%; } }

@@ -176,7 +176,7 @@ nav.navbar {
 }
 
 nav.navbar .navbar-nav li.active a:not(.btn) {
-	color: #00a8ff !important;
+	color: #6DCCB8 !important;
 }
 
 nav.navbar-fixed-top {
@@ -1031,6 +1031,14 @@ footer .social-footer li:hover a {
 		padding-right: 30px;
 		padding-left: 30px;
 	}
+    
+    .navbar-nav {
+        max-width:100%;
+        
+        li {
+            margin:0;
+        }
+    }
 }
 
 @media(max-width: 400px) {
@@ -1040,9 +1048,20 @@ footer .social-footer li:hover a {
 	.how_to_votes .how_to_vote .box-second {
 		padding-top: 0;
 	}
+    
 }
 
+@media(max-width: 380px) {
 
+    .navbar-brand {
+        padding:0;
+        width:30%;
+    }
+    
+    .logo-img {
+        width:220%;
+    }
+}
 
 
 

@@ -201,9 +201,7 @@
 		
 =======
 			<div class="row" id="candidates_result">
-					<?php
-						require_once('php/candidates.php');
-					?>
+
 >>>>>>> origin/New-resons
 			</div>
 		</div>
@@ -217,14 +215,14 @@
 			<div class="row no-margin reasons_why">
 				   <div class="col-md-12 owl-carousel" id="why_vote_carousel">
 				   		<div class="col-md-12">
-				   			<div class="col-sm-8">
+				   			<div class="col-md-12">
 								<h2>Step 1
 									<p class="lead"> You are at least 18 years old, are living in Denmark and are in possession of a CPR number and Health Card. If you live abroad or moved to Denmark from another <img src="img/eo/1f1ea-1f1fa.png" alt="EU">EU country, you need to apply separately to appear on the electoral roll for the European Parliament elections.</p>
 							   </h2>
 							</div>
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">
+							<div class="col-md-12">
 									<h2>Step 2
 									<p class="lead"> On the 21st of November go to stated on you election card location. It’s open from 08.00 till 20.00. Don’t forget to take your Health Card and an ID with an picture. </p>
 							   </h2>
@@ -232,7 +230,7 @@
 
 			   			</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 3
 									<p class="lead"> Say <img src="img/eo/1f64b-2642.png" alt="Hi!">‘Hi’ and the electoral leader will mark your name on the list. Then you will be given a ballot paper.</p>
 							   </h2>
@@ -240,7 +238,7 @@
 
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 4
 									<p class="lead"> Go alone to the voting room. Make your decision. <img src="img/eo/270d.png" alt="make your decision"> No one is judging you. Choose wisely, tick the name of party.</p>
 							   </h2>
@@ -248,7 +246,7 @@
 
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Remember!
 									<p class="lead"> You can also vote blank, that is, do not write anything on the ballot paper. In that case, your ballot paper will be invalid and will not be counted in the result, but will count in the number of votes cast and thus affect the amount of voting. <img src="img/eo/1f609.png" alt="wink"> </p>
 							   </h2>
