@@ -147,7 +147,7 @@ nav.navbar {
   transition: all 0.3s ease; }
 
 nav.navbar .navbar-nav li.active a:not(.btn) {
-  color: #00a8ff !important; }
+  color: #6DCCB8 !important; }
 
 nav.navbar-fixed-top {
   z-index: 9499;
@@ -185,6 +185,10 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 .btn:hover,
 .btn:focus {
   color: white; }
+
+.mission_btn{
+	margin-top: 10vh;
+}
 
 /*
 .btn.btn-blue {
@@ -504,6 +508,11 @@ section {
 .team .title {
   margin: 50px 0; }
 
+.alert{
+	margin-top: 50px;
+	width: 150px;
+}
+
 /* Election information/municipalities */
 .municipalities {
   height: 100%; }
@@ -521,7 +530,8 @@ section {
   -webkit-background-size: cover;
   background-size: cover;
   -webkit-transition: background-image 0.6s linear 0.3s;
-  transition: background-image 0.6s linear 0.3s; }
+  transition: background-image 0.6s linear 0.3s; 
+  padding-bottom: 110px;}
 
 .owl-how_to_vote img {
   width: 100%; }
@@ -885,9 +895,20 @@ footer .social-footer li:hover a {
     position: relative;
     padding-right: 30px;
     padding-left: 30px; } }
+    .navbar-nav {
+        max-width: 100%; }
+        .navbar-nav li {
+          margin: 0; } }
 
 @media (max-width: 400px) {
   header .typed-cursor {
     display: none; }
   .how_to_votes .how_to_vote .box-second {
     padding-top: 0; } }
+
+@media (max-width: 380px) {
+  .navbar-brand {
+    padding: 0;
+    width: 30%; }
+  .logo-img {
+    width: 220%; } }

@@ -115,8 +115,8 @@
 				</div>
 			</div>
 		</div>
-	</section>
-		
+	</section>	
+	<section id="why_vote_2" class="section section-padded">
 		<div class="container">
 			<h4 class="light black center_text why_subtext">Voting is an essential part of democracy and is a privilege to possess. Each election will have an impact on your life, 
 			so make a change and use the possibilities that has been given to you, go vote.</h4>
@@ -135,7 +135,7 @@
 						</div>
 						<h4 class="heading">Brexit</h4>
 						<p class="description">72.2% of the voting-eligible population voted for the referendum. <br> That means 27.8% just didn’t. <br>
-							<a href="http://www.investopedia.com/terms/b/brexit.asp" target="_blank">learn more</a> </p>
+							<a href="http://www.investopedia.com/terms/b/brexit.asp" target="_blank">read more</a> </p>
 					</div>
 				</div>
 				<div class="col-md-4">
@@ -145,7 +145,7 @@
 						</div>
 						<h4 class="heading">Trump</h4>
 						<p class="description">56.9% of the voting-eligible population cast a ballot on Election Day. <br> That means 43.1% just didn’t. <br>
-							<a href="https://www.vox.com/policy-and-politics/2016/11/10/13587462/trump-election-2016-voter-turnout" target="_blank">learn more</a></p>
+							<a href="https://www.vox.com/policy-and-politics/2016/11/10/13587462/trump-election-2016-voter-turnout" target="_blank">read more</a></p>
 					</div>
 				</div>
 				<div class="col-md-4">
@@ -164,16 +164,19 @@
 	
 	<div class="container">
 			<h4 class="light black center_text why_subtext">When not voting, you’re giving up you chance you be heard. Now is the time to act, now it’s time to vote, before it’s too late.</h4>
-			<h2 class="light black center_text what_headline">Want to learn more?</h2>
 	</div>
 	<section id="our_mission" class="section section-padded">
 	 	<div class="container">
 	 		<div class="row title text-center">
 	 			<div class="col-md-12">
 		 			<h2 class="margin-top">#TrashVote mission</h2>
-		 			<p class="light black center_text why_subtext">
-				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you is a different story. With the word TrashVote, we are trying to convince you not too waste or trash your vote. You could look at in a few different ways. The first one is, if you are thinking of not using your vote, than be aware that your vote is being used for another party. Maybe even the party that The second way to look at is, 
-					</p>
+		 			<h4 class="light black center_text why_subtext">
+				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you, is a different story. With the word TrashVote, we are trying to convince you not too waste your vote. 
+
+						You could look at in a few different ways. The first one is, if you are thinking about not using your vote, then be aware that your vote is going to an unknown party. The second one, is to consider the value the democracy in Denmark. It is important to vote for your believes and be apart of the changes you would like to see in Denmark. 
+
+						We want to make sure that the danish youth understands the value of democracy and the fact that their vote can make a difference. We are here to provide awareness and information about the upcoming election, so that everyone can work together to help shaping the future of Denmark.
+					</h4>
 				</div>
 				<div class="col-md-12">
 					<h4 class="">Why it is so important to go vote?</h2>
@@ -217,54 +220,43 @@
 			<div class="row no-margin reasons_why">
 				   <div class="col-md-12 owl-carousel" id="why_vote_carousel">
 				   		<div class="col-md-12">
-				   			<div class="col-sm-8">
+				   			<div class="col-md-12">
 								<h2>Step 1
 									<p class="lead"> You are at least 18 years old, are living in Denmark and are in possession of a CPR number and Health Card. If you live abroad or moved to Denmark from another <img src="img/eo/1f1ea-1f1fa.png" alt="EU">EU country, you need to apply separately to appear on the electoral roll for the European Parliament elections.</p>
 							   </h2>
 							</div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">
+							<div class="col-md-12">
 									<h2>Step 2
 									<p class="lead"> On the 21st of November go to stated on you election card location. It’s open from 08.00 till 20.00. Don’t forget to take your Health Card and an ID with an picture. </p>
 							   </h2>
 							 </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>  
+
 			   			</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 3
 									<p class="lead"> Say <img src="img/eo/1f64b-2642.png" alt="Hi!">‘Hi’ and the electoral leader will mark your name on the list. Then you will be given a ballot paper.</p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 4
 									<p class="lead"> Go alone to the voting room. Make your decision. <img src="img/eo/270d.png" alt="make your decision"> No one is judging you. Choose wisely, tick the name of party.</p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Remember!
 									<p class="lead"> You can also vote blank, that is, do not write anything on the ballot paper. In that case, your ballot paper will be invalid and will not be counted in the result, but will count in the number of votes cast and thus affect the amount of voting. <img src="img/eo/1f609.png" alt="wink"> </p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   </div>
 			</div>
@@ -280,11 +272,9 @@
 				</div>
 				<div class="col-sm-6 text-center-mobile">
 					<div class="social">
-						<a class="fb text-center pull-left" href="https://www.facebook.com/dribbble">
+						<a class="fb text-center pull-left" href="#">
 						<div class="front"><i class="fa fa-facebook"></i><span class="count facebook">27k</span></div>
-						<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="https://twitter.com/dribbble">
-						<div class="front"><i class="fa fa-twitter"></i><span class="count twitter">136k</span></div>
-						<div class="behind">FOLLOW</div></a><a class="ig text-center pull-left" href="https://instagram.com/dribbble">
+						<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="#">
 						<div class="front"><i class="fa fa-instagram"></i><span class="count instagram">14.6k</span></div>
 						<div class="behind text-left">FOLLOW</div></a>
 					</div>
@@ -292,7 +282,7 @@
 			</div>
 			<div class="row bottom-footer text-center-mobile">
 				<div class="col-sm-12">
-					<p>&copy; 2017 All Rights Reserved. cphbusiness project by Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt<br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
+					<p>&copy; 2017 All Rights Reserved. cphbusiness project by <a href="http://projects.michaeldesign.pl/new" target="_blank">Michał Pawlicki</a>, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska,<a href="http://www.faurholtdesign.com" target="_blank">Jens Faurholt</a><br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
 				</div>
 			</div>
 		</div>

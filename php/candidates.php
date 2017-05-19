@@ -22,7 +22,7 @@ $sql_candidates = 	"SELECT names.Name, names.Description, municipalities.Region,
 $results_candiddates = mysqli_query($con, $sql_candidates); 
 
 if (isset($_GET['list'])) {
-	
+ if (mysqli_num_rows($results_candiddates) > 0){
 	while($row = mysqli_fetch_assoc($results_candiddates)){
 			echo"			
 				<div class='col-md-4'>
@@ -39,6 +39,10 @@ if (isset($_GET['list'])) {
 					</div>
 					";
 		}
+ }
+	else{
+		echo "<center><div class='alert alert-danger' role='alert'><h5>No candiates in this area.</h5></div></center>";
+	}
 }
 }
 ?>
