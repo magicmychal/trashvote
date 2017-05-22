@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Trash Vote - go save your city</title>
 	<meta name="description" content="" />
-	<meta name="keywords" content="valg demokrati politik" />
+	<meta name="keywords" content="how, vote, election, 21.st November, why, difference, important, candidates"/>
 	<meta name="author" content="Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt" />
 	<!-- Favicons (created with http://realfavicongenerator.net/)-->
 	<link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon.png">
@@ -86,7 +86,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/lose-it.png" alt="" class="icon">
+							<img src="img/icons/lose-it.png" alt="trash" class="icon">
 						</div>
 						<h4 class="heading">Use it or lose it</h4>
 						<p class="description">The outcome of the 2017 election will affect your life. If you don’t act to protect your interest, who will?</p>
@@ -95,7 +95,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/Its-the-key.png" alt="" class="icon">
+							<img src="img/icons/Its-the-key.png" alt="key" class="icon">
 						</div>
 						<h4 class="heading">Voting is the key</h4>
 						<p class="description">Politicians listen to voters and donors. Unless you can write a big check, you power comes from joining others to vote them in - our out.</p>
@@ -104,7 +104,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/the-beginning.png" alt="" class="icon">
+							<img src="img/icons/the-beginning.png" alt="shakeing_hands" class="icon">
 						</div>
 						<h4 class="heading">It's just the beginning</h4>
 						<p class="description">Decisions made by politicians affect everything: your income, family, education, etc. Stay involved, write a letter to the editor, advocate for a cause, run for office, go vote.</p>
@@ -128,7 +128,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/brexit.png" alt="" class="icon">
+							<img src="img/icons/brexit.png" alt="brexit" class="icon">
 						</div>
 						<h4 class="heading">Brexit</h4>
 						<p class="description">72.2% of the voting-eligible population voted for the referendum. <br> That means 27.8% just didn’t. <br>
@@ -138,7 +138,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/Trump.png" alt="" class="icon">
+							<img src="img/icons/Trump.png" alt="trump" class="icon">
 						</div>
 						<h4 class="heading">Trump</h4>
 						<p class="description">56.9% of the voting-eligible population cast a ballot on Election Day. <br> That means 43.1% just didn’t. <br>
@@ -148,7 +148,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/the-beginning.png" alt="" class="icon">
+							<img src="img/icons/the-beginning.png" alt="shakeing_hands" class="icon">
 						</div>
 						<h4 class="heading">Something else</h4>
 						<p class="description">Something else to motivate you :P.</p>
