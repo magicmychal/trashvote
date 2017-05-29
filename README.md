@@ -1,26 +1,49 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/)
+# Trash Vote
+## The 1st semester final project
+### by Zuzanna Matuszewska, Aku Franssila, Marloes Koopman, Jens Faurholt, Michał Pawlicki
+#### Multimedia Design and Communication, 2nd semester 2017
 
-[One Page Wonder](http://startbootstrap.com/template-overviews/one-page-wonder/) is a basic one page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+[See the website](http://www.projects.michaeldesign.pl/trashvote)
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/one-page-wonder/).
+This website is based on <i>Cardio</i> free (MIT) template and contains external plugins.
 
-## Creator
+"Cardio" is a one page website template made by [PHIr](http://www.phir.co/) exclusively for Codrops.
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## License
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Use it freely but please do not republish, distribute or sell "as-is". [Read more about our license.](http://tympanus.net/codrops/licensing/)
 
-## Copyright and License
+## Credits 
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder/blob/gh-pages/LICENSE) license.
+### Bootstrap
+
+[Bootstrap](http://getbootstrap.com/) by Twitter. Licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)
+
+### Animate.css
+
+[Animate.css](https://daneden.github.io/animate.css/) by Dan Eden
+
+### Owl Carousel
+
+[Owl Carousel](http://owlgraphic.com/owlcarousel/) by Bartosz Wojciechowski. Licensed under [MIT](https://github.com/OwlFonk/OwlCarousel/blob/master/LICENSE)
+
+### WOW.js
+
+[WOW.js](http://mynameismatthieu.com/WOW/) by Matt Aussaguel. Licensed under [MIT](https://github.com/matthieua/WOW/blob/master/LICENSE-MIT)
+
+### jQuery One Page Nav
+
+[jQuery One Page Nav](http://davist11.github.io/jQuery-One-Page-Nav/) by Trevor Davis.
+
+### Font Awesome Icons 
+
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) by Dave Gandy. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+
+### Elegant Icons 
+
+[Elegant Icons](http://www.elegantthemes.com/blog/resources/elegant-icon-font/) by Elegant Themes. Licensed under [MIT](http://opensource.org/licenses/mit-license.html)
+
