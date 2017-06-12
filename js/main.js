@@ -182,4 +182,11 @@ jQuery(function($) {
 	$(window).on("resize", function() {
 		$('.modal:visible').each(centerModal);
 	});
+
+	$('#center_top_btn').click(function(e){
+        var href = $(this).attr("href"),
+            offsetTop = href === "#" ? 0 : $(href).offset().top-navbarheight+2;
+        $('html, body').stop().animate({ scrollTop: offsetTop  }, 1000, 'easeInOutExpo');
+        e.preventDefault();
+    });
 });
