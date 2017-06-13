@@ -83,6 +83,11 @@ jQuery(function($) {
 			scrollSpeed: 400,
 			filter: ':not(.btn)'
 		});
+		$('.mission_btn').onePageNav({
+			
+			scrollSpeed: 400,
+		});
+		
 	});
 	// Window Scroll
 	function onScroll() {

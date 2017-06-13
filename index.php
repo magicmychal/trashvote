@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Trash Vote - go save your city</title>
 	<meta name="description" content="" />
-	<meta name="keywords" content="how, vote, election, 21.st November, why, difference, important, candidates"/>
+	<meta name="keywords" content="valg demokrati politik" />
 	<meta name="author" content="Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt" />
 	<!-- Favicons (created with http://realfavicongenerator.net/)-->
 	<link rel="apple-touch-icon" sizes="114x114" href="/img/favicons/apple-touch-icon.png">
@@ -74,6 +74,9 @@
 							<h3 class="white typed">21st November - you can make a difference</h3>
 							<span class="typed-cursor">|</span>
 						</div>
+						<div class="col-md-12 centered btn_our mission_btn">
+							<a href="#our_mission"><button type="button" class="btn btn-primary">What's #TrashVote?</button></a>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -86,7 +89,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/lose-it.png" alt="trash" class="icon">
+							<img src="img/icons/lose-it.png" alt="" class="icon">
 						</div>
 						<h4 class="heading">Use it or lose it</h4>
 						<p class="description">The outcome of the 2017 election will affect your life. If you don’t act to protect your interest, who will?</p>
@@ -95,7 +98,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/Its-the-key.png" alt="key" class="icon">
+							<img src="img/icons/Its-the-key.png" alt="" class="icon">
 						</div>
 						<h4 class="heading">Voting is the key</h4>
 						<p class="description">Politicians listen to voters and donors. Unless you can write a big check, you power comes from joining others to vote them in - our out.</p>
@@ -104,7 +107,7 @@
 				<div class="col-md-4">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/the-beginning.png" alt="shakeing_hands" class="icon">
+							<img src="img/icons/the-beginning.png" alt="" class="icon">
 						</div>
 						<h4 class="heading">It's just the beginning</h4>
 						<p class="description">Decisions made by politicians affect everything: your income, family, education, etc. Stay involved, write a letter to the editor, advocate for a cause, run for office, go vote.</p>
@@ -112,48 +115,39 @@
 				</div>
 			</div>
 		</div>
-	</section>
-		
+	</section>	
 		<div class="container">
 			<h4 class="light black center_text why_subtext">Voting is an essential part of democracy and is a privilege to possess. Each election will have an impact on your life, 
 			so make a change and use the possibilities that has been given to you, go vote.</h4>
 			
-			<h2 class="light black center_text what_headline">What happens if you dont?</h2>
+			<h2 class="light black center_text what_headline">What happened when people didn't vote?</h2>
 		</div>
 	
 	<!--What happens if you dont section-->
 	<section id="why_vote_2" class="section section-padded">
 		<div class="container">
 			<div class="row why_vote">
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/brexit.png" alt="brexit" class="icon">
+							<img src="img/icons/brexit.png" alt="" class="icon">
 						</div>
 						<h4 class="heading">Brexit</h4>
 						<p class="description">72.2% of the voting-eligible population voted for the referendum. <br> That means 27.8% just didn’t. <br>
-							<a href="http://www.investopedia.com/terms/b/brexit.asp" target="_blank">learn more</a> </p>
+							<a href="http://www.investopedia.com/terms/b/brexit.asp" target="_blank">read more</a> </p>
 					</div>
 				</div>
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<div class="service">
 						<div class="icon-holder">
-							<img src="img/icons/Trump.png" alt="trump" class="icon">
+							<img src="img/icons/Trump.png" alt="" class="icon">
 						</div>
 						<h4 class="heading">Trump</h4>
 						<p class="description">56.9% of the voting-eligible population cast a ballot on Election Day. <br> That means 43.1% just didn’t. <br>
-							<a href="https://www.vox.com/policy-and-politics/2016/11/10/13587462/trump-election-2016-voter-turnout" target="_blank">learn more</a></p>
+							<a href="https://www.vox.com/policy-and-politics/2016/11/10/13587462/trump-election-2016-voter-turnout" target="_blank">read more</a></p>
 					</div>
 				</div>
-				<div class="col-md-4">
-					<div class="service">
-						<div class="icon-holder">
-							<img src="img/icons/the-beginning.png" alt="shakeing_hands" class="icon">
-						</div>
-						<h4 class="heading">Something else</h4>
-						<p class="description">Something else to motivate you :P.</p>
-					</div>
-				</div>
+				
 			</div>
 		</div>
 		<div class="cut cut-bottom"></div>
@@ -161,7 +155,6 @@
 	
 	<div class="container">
 			<h4 class="light black center_text why_subtext">When not voting, you’re giving up you chance you be heard. Now is the time to act, now it’s time to vote, before it’s too late.</h4>
-			<h2 class="light black center_text what_headline">Want to learn more?</h2>
 	</div>
 	<section id="our_mission" class="section section-padded">
 	 	<div class="container">
@@ -169,10 +162,14 @@
 	 			<div class="col-md-12">
 		 			<h2 class="margin-top">#TrashVote mission</h2>
 		 			<p class="light black center_text why_subtext">
-				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you is a different story. With the word TrashVote, we are trying to convince you not too waste or trash your vote. You could look at in a few different ways. The first one is, if you are thinking of not using your vote, than be aware that your vote is being used for another party. Maybe even the party that The second way to look at is, 
+				 		TrashVote? The first thing that would come to mind is actually trashing your vote right? What we are trying to tell you, is a different story. With the word TrashVote, we are trying to convince you not too waste your vote. 
+						<br>
+						You could look at in a few different ways. The first one is, if you are thinking about not using your vote, then be aware that your vote is going to an unknown party. The second one, is to consider the value the democracy in Denmark. It is important to vote for your believes and be apart of the changes you would like to see in Denmark. 
+						<br>	
+						We want to make sure that the danish youth understands the value of democracy and the fact that their vote can make a difference. We are here to provide awareness and information about the upcoming election, so that everyone can work together to help shaping the future of Denmark.
 					</p>
 				</div>
-				<div class="col-md-12">
+				<div class="col-md-12 why_video">
 					<h4 class="">Why it is so important to go vote?</h2>
 					<div class="embed-responsive embed-responsive-16by9">
                         
@@ -214,54 +211,43 @@
 			<div class="row no-margin reasons_why">
 				   <div class="col-md-12 owl-carousel" id="why_vote_carousel">
 				   		<div class="col-md-12">
-				   			<div class="col-sm-8">
+				   			<div class="col-md-12">
 								<h2>Step 1
 									<p class="lead"> You are at least 18 years old, are living in Denmark and are in possession of a CPR number and Health Card. If you live abroad or moved to Denmark from another <img src="img/eo/1f1ea-1f1fa.png" alt="EU">EU country, you need to apply separately to appear on the electoral roll for the European Parliament elections.</p>
 							   </h2>
 							</div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">
+							<div class="col-md-12">
 									<h2>Step 2
 									<p class="lead"> On the 21st of November go to stated on you election card location. It’s open from 08.00 till 20.00. Don’t forget to take your Health Card and an ID with an picture. </p>
 							   </h2>
 							 </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>  
+
 			   			</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 3
 									<p class="lead"> Say <img src="img/eo/1f64b-2642.png" alt="Hi!">‘Hi’ and the electoral leader will mark your name on the list. Then you will be given a ballot paper.</p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Step 4
 									<p class="lead"> Go alone to the voting room. Make your decision. <img src="img/eo/270d.png" alt="make your decision"> No one is judging you. Choose wisely, tick the name of party.</p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   		<div class="col-md-12">
-							<div class="col-sm-8">	
+							<div class="col-md-12">	
 								<h2>Remember!
 									<p class="lead"> You can also vote blank, that is, do not write anything on the ballot paper. In that case, your ballot paper will be invalid and will not be counted in the result, but will count in the number of votes cast and thus affect the amount of voting. <img src="img/eo/1f609.png" alt="wink"> </p>
 							   </h2>
 							   </div>
-					   		<div class="col-sm-4">
-						   		<img class="img-circle img-responsive" src="http://placehold.it/500x500">
-						   </div>
+
 				   		</div>
 				   </div>
 			</div>
@@ -277,11 +263,9 @@
 				</div>
 				<div class="col-sm-6 text-center-mobile">
 					<div class="social">
-						<a class="fb text-center pull-left" href="https://www.facebook.com/dribbble">
+						<a class="fb text-center pull-left" href="#">
 						<div class="front"><i class="fa fa-facebook"></i><span class="count facebook">27k</span></div>
-						<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="https://twitter.com/dribbble">
-						<div class="front"><i class="fa fa-twitter"></i><span class="count twitter">136k</span></div>
-						<div class="behind">FOLLOW</div></a><a class="ig text-center pull-left" href="https://instagram.com/dribbble">
+						<div class="behind text-right">LIKE US</div></a><a class="tw text-center pull-left" href="#">
 						<div class="front"><i class="fa fa-instagram"></i><span class="count instagram">14.6k</span></div>
 						<div class="behind text-left">FOLLOW</div></a>
 					</div>
@@ -289,7 +273,12 @@
 			</div>
 			<div class="row bottom-footer text-center-mobile">
 				<div class="col-sm-12">
-					<p>&copy; 2017 All Rights Reserved. cphbusiness project by Michał Pawlicki, Marloes Koopman, Aku Franssila, Zuzanna Matuszewska, Jens Faurholt<br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
+					<p>&copy; 2017 All Rights Reserved. cphbusiness project by
+					<a href="http://projects.michaeldesign.pl/new" target="_blank">Michał Pawlicki</a>,
+					Marloes Koopman,
+					<a href="https://akufra.myportfolio.com" target="_blank">Aku Franssila,</a>
+					Zuzanna Matuszewska,
+					<a href="http://www.faurholtdesign.com" target="_blank">Jens Faurholt</a><br>  Theme base by <a href="http://www.phir.co/">PHIr</a> exclusively for <a href="http://tympanus.net/codrops/">Codrops</a></p>
 				</div>
 			</div>
 		</div>
