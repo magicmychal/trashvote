@@ -75,7 +75,7 @@
 							<span class="typed-cursor">|</span>
 						</div>
 						<div class="col-md-12 centered btn_our mission_btn">
-							<a href="#our_mission"><button type="button" class="btn btn-primary">What's #TrashVote?</button></a>
+							<a href="#our_mission" id="center_top_btn"><button type="button" class="btn btn-primary">What's #TrashVote?</button></a>
 						</div>
 					</div>
 				</div>
@@ -170,7 +170,7 @@
 					</p>
 				</div>
 				<div class="col-md-12 why_video">
-					<h4 class="">Why it is so important to go vote?</h2>
+					<h2 class="">Why it is so important to go vote?</h2>
 					<div class="embed-responsive embed-responsive-16by9">
                         
                         <iframe src="https://www.youtube.com/embed/cOZx8wkV8oQ" frameborder="0" allowfullscreen></iframe>
