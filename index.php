@@ -69,19 +69,22 @@
 			<div class="table">
 				<div class="header-text">
 					<div class="row">
-						<div class="col-md-12 text-center">
+						<div class="col-xs-12 text-center">
 							<h1 class="light white">Why do you need to vote?</h1>
 							<h3 class="white typed">21st November - you can make a difference</h3>
 							<span class="typed-cursor">|</span>
 						</div>
-						<div class="col-md-12 centered btn_our mission_btn">
+                        <div class="row">
+						<div class="col-xs-12 centered btn_our mission_btn">
 							<a href="#our_mission" id="center_top_btn"><button type="button" class="btn btn-primary">What's #TrashVote?</button></a>
 						</div>
+                        </div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</header>
+
 	<!--Resons why to vote section-->
 	<section id="why_vote" class="section section-padded">
 		<div class="container">
